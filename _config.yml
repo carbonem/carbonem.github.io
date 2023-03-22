@@ -28,7 +28,7 @@ twitter_username: carbonem
 github_username:  carbonem
 
 # Build settings
-theme: minima
+theme: architect
 plugins:
   - jekyll-feed
 
