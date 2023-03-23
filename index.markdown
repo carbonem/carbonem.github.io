@@ -4,3 +4,5 @@
 
 layout: default
 ---
+
+This is the index.html file. Where does this stuff appear?
