@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Publications"
 permalink: https://carbonem.github.io/publications
 ---
