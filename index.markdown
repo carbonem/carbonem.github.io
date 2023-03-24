@@ -5,4 +5,6 @@
 layout: default
 ---
 
+![Marco Carbone](assets/img/marcopic.jpg)
+
 This is the index.html file. Where does this stuff appear?
