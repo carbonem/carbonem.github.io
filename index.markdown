@@ -55,7 +55,7 @@ year. For old stuff, look
 - [2023] _GrAdual sessIoN typEs for pRivacy (GAINER)_, 2022 WhatsApp
   Research Awards: Privacy Aware Program Analysis.
 
-- [2021-2024] _MECHANIsation of Session Types (MECHANIST)_, FNU
+- [2021-2024] [_MECHANIsation of Session Types (MECHANIST)_](https://carbonem.github.io/mechanist/), FNU
   Research Project 1, funded by the [Independent Research Fund
   Denmark](https://www.dff.dk).
 
