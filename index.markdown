@@ -11,15 +11,13 @@ layout: default
 
 * I'm an Associate Professor at the [Computer Science
 Department](https://wiki.itu.dk/computerscience/index.php/Main_Page),
-[IT University of Copenhagen](https://www.itu.dk).  Since 2018, I am
+[IT University of Copenhagen](https://www.itu.dk) and member of the [Programming, Logics and
+  Semantics](https://pls.itu.dk) research group and the [Center of
+  Information Security and Trusts](https://cisat.dk). Since 2018, I am
 also head (linjeleder) of the [MSc. in Computer
 Science](https://en.itu.dk/Programmes/MSc-Programmes/Computer-Science)
 study programme. Formerly, 2014-18, I was heading the MSc. in Software
 Development.
-
-* I'm a member of the [Programming, Logics and
-  Semantics](https://pls.itu.dk) research group and the [Center of
-  Information Security and Trusts](https://cisat.dk).
 
 * Before joining ITU, I was a post-doc at [Imperial College
   London](https://www.imperial.ac.uk/computing/) and
@@ -34,12 +32,7 @@ Development.
 My core research interests are within applications of semantics, type
 theory, and linear logic to concurrency. In particular, I'm an expert
 in the pi-calculus concurrency model, session types (I'm one of the
-authors of multiparty session types), and choreography models.
-
-I am also interested in applications of my theoretical work. In
-particular, I'm interested in the design and usage of (extensions of)
-programming languages that make strong use of session types and
-choreographic specifications for safety of critical systems.
+authors of multiparty session types), and choreographies.
 
 ## Publications
 
@@ -86,7 +79,7 @@ SFM-09:WS School (Lecturer), ICE'08 (PC), BPESO School '07 (Lecturer).
 
 ## Postdocs/PhD Students/RA
 
-* [Emil Kistensen](https://www.linkedin.com/in/ekxdk/) (2023-2024, Research Assistant)
+* [Emil Kistensen](https://www.linkedin.com/in/ekxdk/) (2023-2024, research assistant/predoc)
 * [Dawit Tirore](https://www.linkedin.com/in/dawit-tirore-8349b1134/?originalSubdomain=dk) (2021-2024, PhD student)
 * [Agata Murawska](https://ayertienna.github.io) (2017-18, postdoc)
 * [Fabrizio Montesi](https://www.fabriziomontesi.com) (2011-14, PhD student)
