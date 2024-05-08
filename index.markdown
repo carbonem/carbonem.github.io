@@ -5,7 +5,7 @@
 layout: default
 ---
 
-![Marco Carbone](assets/img/marcopic.jpg)
+<img src="assets/img/marcopic.jpg" alt="Marco Carbone" width="200"/>
 
 ## Short Bio
 
