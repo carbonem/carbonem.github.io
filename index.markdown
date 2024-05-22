@@ -47,7 +47,7 @@ You can also find me on [Google Scholar](https://scholar.google.com/citations?us
 
 ## Current Projects
 
-- [2024] _Safer AI with Probabilistic Session Types (SAPienT)_, Research Stays at the University of Oxford, funded by the [Carlsberg Foundation](https://www.carlsbergfondet.dk/en)
+- [2024] [_Safer AI with Probabilistic Session Types (SAPienT)_](https://www.carlsbergfondet.dk/det-har-vi-stoettet/cf23-1797/), Research Stays at the University of Oxford, funded by the [Carlsberg Foundation](https://www.carlsbergfondet.dk/en)
 
 - [2023-2024] _GrAdual sessIoN typEs for pRivacy (GAINER)_, [2022 WhatsApp
   Research Awards: Privacy Aware Program Analysis](https://research.facebook.com/research-awards-2022-whatsapp-research-awards-privacy-aware-program-analysis-request-for-proposals/).
