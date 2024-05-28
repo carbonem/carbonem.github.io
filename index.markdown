@@ -13,11 +13,9 @@ layout: default
 Department](https://wiki.itu.dk/computerscience/index.php/Main_Page),
 [IT University of Copenhagen](https://www.itu.dk) and member of the [Programming, Logics and
   Semantics](https://pls.itu.dk) research group and the [Center of
-  Information Security and Trusts](https://cisat.dk). Since 2018, I am
-also head (linjeleder) of the [MSc. in Computer
+  Information Security and Trusts](https://cisat.dk).  <!--- Since 2018, -->  I am also heading (linjeleder) the [MSc. in Computer
 Science](https://en.itu.dk/Programmes/MSc-Programmes/Computer-Science)
-study programme. Formerly, 2014-18, I was heading the MSc. in Software
-Development.
+study programme at ITU. <!--- Formerly, 2014-18, I was heading the MSc. in Software Development. -->
 
 * Before joining ITU, I was a post-doc at [Imperial College
   London](https://www.imperial.ac.uk/computing/) and
@@ -27,12 +25,13 @@ Development.
   [BRICS](https://brics.dk), Aarhus University supervised by
   Prof. M. Nielsen.
 
+* I am the recipient of the ACM SIGPLAN POPL 2018 Most Influential Paper Award, for the 2008 [Multiparty Asynchronous Session Types](https://dl.acm.org/doi/10.1145/1328438.1328472) paper. 
+
 ## Research Interests
 
 My core research interests are within applications of semantics, type
 theory, and linear logic to concurrency. In particular, I'm an expert
-in the pi-calculus concurrency model, session types (I'm one of the
-authors of multiparty session types), and choreographies.
+in the pi-calculus concurrency model, session types, and choreographies.
 
 ## Publications
 
