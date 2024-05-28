@@ -14,18 +14,21 @@ Department](https://wiki.itu.dk/computerscience/index.php/Main_Page),
 [IT University of Copenhagen](https://www.itu.dk) and member of the [Programming, Logics and
   Semantics](https://pls.itu.dk) research group and the [Center of
   Information Security and Trusts](https://cisat.dk).  <!--- Since 2018, -->  I am also heading (linjeleder) the [MSc. in Computer
-Science](https://en.itu.dk/Programmes/MSc-Programmes/Computer-Science)
+Science](https://en.itu.dk/Programmes/MSc-Programmes/Computer-Science).
 study programme at ITU. <!--- Formerly, 2014-18, I was heading the MSc. in Software Development. -->
 
-* Before joining ITU, I was a post-doc at [Imperial College
+* I received my PhD in Computer Science (“Trust and Mobility”) from
+  [BRICS](https://brics.dk), Aarhus University.
+
+<!--- * Before joining ITU, I was a post-doc at [Imperial College
   London](https://www.imperial.ac.uk/computing/) and
   [QMUL](http://www.eecs.qmul.ac.uk) (with Honda and
   [Yoshida](https://www.cs.ox.ac.uk/people/nobuko.yoshida/)). In 2005,
   I received my PhD in Computer Science (“Trust and Mobility”) from
   [BRICS](https://brics.dk), Aarhus University supervised by
-  Prof. M. Nielsen.
+  Prof. M. Nielsen. -->
 
-* I am the recipient of the ACM SIGPLAN POPL 2018 Most Influential Paper Award, for the 2008 [Multiparty Asynchronous Session Types](https://dl.acm.org/doi/10.1145/1328438.1328472) paper. 
+* I am the recipient of the ACM SIGPLAN POPL 2018 Most Influential Paper Award, for the  [Multiparty Asynchronous Session Types](https://dl.acm.org/doi/10.1145/1328438.1328472) paper. 
 
 ## Research Interests
 
