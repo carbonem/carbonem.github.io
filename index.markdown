@@ -66,6 +66,7 @@ European RISE Action (EU HORIZON 2020, MSCA RISE, ID 778233)
 ## Recent Community Service 
 
 - [CP 2024](https://pldi24.sigplan.org/home/cp-2024) (PC)
+- [TYPES 2024](https://types2024.itu.dk) (PC and local organiser)
 - [Radical'23](https://sites.google.com/site/radicalconcur/) (PC)
 - [FOSSACS'23](https://www.etaps.org/2023/conferences/) (PC)
 - [PLACES'22](https://places-workshop.github.io/2022/) (PC chair)
