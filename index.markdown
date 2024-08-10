@@ -42,7 +42,7 @@ The most (and very) up-to-date page is my
 [DBLP](https://dblp.org/pid/41/1366.html) entry. My ITU [publication
 page](https://pure.itu.dk/en/persons/marco-carbone) is updated once a
 year. For old stuff, look
-[here](https://www.itu.dk/people/maca/publications.html).
+[here](https://www.itu.dk/people/maca/publications.html). My PhD thesis is [here](https://www.itu.dk/people/maca/papers/phdThesis.pdf). 
 
 You can also find me on [Google Scholar](https://scholar.google.com/citations?user=abe9klkAAAAJ&hl=en&oi=sra). 
 
