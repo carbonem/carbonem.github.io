@@ -84,6 +84,7 @@ SFM-09:WS School (Lecturer), ICE'08 (PC), BPESO School '07 (Lecturer).
 
 * [Emil Kistensen](https://www.linkedin.com/in/ekxdk/) (2023-2024, research assistant/predoc)
 * [Dawit Tirore](https://www.linkedin.com/in/dawit-tirore-8349b1134/?originalSubdomain=dk) (2021-2024, PhD student)
-* [Agata Murawska](https://ayertienna.github.io) (2017-18, postdoc)
-* [Fabrizio Montesi](https://www.fabriziomontesi.com) (2011-14, PhD student)
-* [Tijs Slaats](https://di.ku.dk/Ansatte/?pure=da/persons/561613) (2009-12, PhD student, co-supervised)
+* [Agata Murawska](https://ayertienna.github.io) (2017-18, postdoc, now software developer at Deon Digital)
+* [Fabrizio Montesi](https://www.fabriziomontesi.com) (2011-14, PhD student, now full professor at SDU)
+* [Tijs Slaats](https://di.ku.dk/Ansatte/?pure=da/persons/561613) (2009-12, PhD student, co-supervised, now associate professor at DIKU)
+* [Hugo A. Lopez](http://lopezacosta.net) (2009-12, PhD student, co-supervised, now associate professor at DTU)
