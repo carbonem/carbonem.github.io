@@ -17,7 +17,7 @@ Department](https://wiki.itu.dk/computerscience/index.php/Main_Page),
 Science](https://en.itu.dk/Programmes/MSc-Programmes/Computer-Science).
 study programme at ITU. <!--- Formerly, 2014-18, I was heading the MSc. in Software Development. -->
 
-* I received my PhD in Computer Science (“Trust and Mobility”) from
+* I received my PhD in Computer Science ([Trust and Mobility](https://www.itu.dk/people/maca/papers/phdThesis.pdf)) from
   [BRICS](https://brics.dk), Aarhus University.
 
 <!--- * Before joining ITU, I was a post-doc at [Imperial College
