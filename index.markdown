@@ -52,7 +52,7 @@ You can also find me on [Google Scholar](https://scholar.google.com/citations?us
 - [2025-2028] [_PROBABILIstic Session Types (PROBABILIST)_](), FNU
   Research Project 1, funded by the [Independent Research Fund Denmark](https://www.dff.dk).
 
-- [2021-2024] [_MECHANIsation of Session Types (MECHANIST)_](https://carbonem.github.io/mechanist/), FNU
+- [2021-2025] [_MECHANIsation of Session Types (MECHANIST)_](https://carbonem.github.io/mechanist/), FNU
   Research Project 1, funded by the [Independent Research Fund Denmark](https://www.dff.dk).
 
 ## Past Projects
