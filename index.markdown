@@ -68,6 +68,7 @@ European RISE Action (EU HORIZON 2020, MSCA RISE, ID 778233)
 
 ## Recent Community Service 
 
+- [COORDINATION 2025](https://www.discotec.org/2025/coordination) (PC)
 - [CP 2024](https://pldi24.sigplan.org/home/cp-2024) (PC)
 - [TYPES 2024](https://types2024.itu.dk) (PC and local organiser)
 - [Radical'23](https://sites.google.com/site/radicalconcur/) (PC)
