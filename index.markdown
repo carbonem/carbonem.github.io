@@ -9,7 +9,7 @@ layout: default
 
 ## Short Bio
 
-* I'm an Associate Professor at the [Computer Science
+* I'm a Professor at the [Computer Science
 Department](https://wiki.itu.dk/computerscience/index.php/Main_Page),
 [IT University of Copenhagen](https://www.itu.dk) and member of the [Programming, Logics and
   Semantics](https://pls.itu.dk) research group and the [Center of
