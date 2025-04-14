@@ -68,10 +68,11 @@ European RISE Action (EU HORIZON 2020, MSCA RISE, ID 778233)
 
 ## Recent Community Service 
 
+- [Radical'25](https://sites.google.com/site/radicalconcur) (PC)
 - [COORDINATION 2025](https://www.discotec.org/2025/coordination) (PC)
 - [CP 2024](https://pldi24.sigplan.org/home/cp-2024) (PC)
 - [TYPES 2024](https://types2024.itu.dk) (PC and local organiser)
-- [Radical'23](https://sites.google.com/site/radicalconcur/) (PC)
+- [Radical'23](https://sites.google.com/site/radicalconcur/previous-editions/radical-2023/) (PC)
 - [FOSSACS'23](https://www.etaps.org/2023/conferences/) (PC)
 - [PLACES'22](https://places-workshop.github.io/2022/) (PC chair)
 - [FORTE'20](http://www.discotec.org/2020/forte.html) (PC)
@@ -87,7 +88,7 @@ SFM-09:WS School (Lecturer), ICE'08 (PC), BPESO School '07 (Lecturer).
 ## Postdocs/PhD Students/RA
 
 * [Emil Kistensen](https://www.linkedin.com/in/ekxdk/) (2023-2024, research assistant/predoc)
-* [Dawit Tirore](https://www.linkedin.com/in/dawit-tirore-8349b1134/?originalSubdomain=dk) (2021-2024, PhD student)
+* [Dawit Tirore](https://tirore96.github.io) (2021-2024, PhD student)
 * [Agata Murawska](https://ayertienna.github.io) (2017-18, postdoc, now software developer at Deon Digital)
 * [Fabrizio Montesi](https://www.fabriziomontesi.com) (2011-14, PhD student, now full professor at SDU)
 * [Tijs Slaats](https://di.ku.dk/Ansatte/?pure=da/persons/561613) (2009-12, PhD student, co-supervised, now associate professor at DIKU)
