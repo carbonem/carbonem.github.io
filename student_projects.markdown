@@ -21,6 +21,12 @@ I am interested in supervising student projects that explore the correctness of 
   + **Keywords:** messaging, protocols, distributed systems, model checking
   + **Level:** BSc/MSc
 
+<br>
+
+- *Neural Network-Based Protocol Mining*
+  + Develop a tool that trains a neural network to infer communication protocols from network traces. The network is trained on observed traces paired with known protocol specifications and, once trained, can predict unknown or partially observed protocol behaviors. The protocol language may include probabilistic elements, capturing message choices, delays, or failures. The project will require designing the neural network, generating synthetic training data (e.g., via an automatic protocol generator), and validating predictions through simulations. The deliverables include a working prototype capable of learning from traces and producing estimated protocol representations.
+  + **Keywords:** neural networks, protocol mining, distributed systems, tool, simulation
+  + **Level:** BSc/MSc
 
 
 
