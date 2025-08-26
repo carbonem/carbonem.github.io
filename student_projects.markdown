@@ -14,9 +14,9 @@ I am interested in supervising student projects that explore the correctness of 
   + **Keywords:** visualisation, distributed protocols, concurrency, tooling
   + **Level:** BSc/MSc
 
-- **Analysing Message Exchange Implementation**
-  + Find an implementation of a message exchange system, e.g., a chat-style message exchange, and model it using a protocol language, e.g., a choreographic language. Verify that the implementation adheres to the protocol specification. Extra mile: consider handling dropped/out-of-order messages.
-  + **Keywords:** messaging, protocols, distributed systems
+- **Extracting and Verifying Communication Protocols from Distributed Rust Code**
+  + Develop a tool that analyses distributed Rust programs and automatically extracts all communication operations, abstracting them into a protocol representation or state machine. The tool should then translate this representation into the input language of a model checker such as SPIN (Promela) or TLA+ (TLC), enabling verification of properties like functional correctness, deadlock freedom, or other protocol-level guarantees. Students will experiment with real Rust implementations and demonstrate the approach on a few concrete examples. As an optional extension, the tool may handle dropped or out-of-order messages to explore robustness under realistic distributed conditions.
+  + **Keywords:** messaging, protocols, distributed systems, model checking
   + **Level:** BSc/MSc
 
 
