@@ -68,6 +68,7 @@ European RISE Action (EU HORIZON 2020, MSCA RISE, ID 778233)
 
 ## Recent Community Service 
 
+- [FORTE 2026](https://www.discotec.org/2026/forte) (PC)
 - [Radical'25](https://sites.google.com/site/radicalconcur) (PC)
 - [COORDINATION 2025](https://www.discotec.org/2025/coordination) (PC)
 - [CP 2024](https://pldi24.sigplan.org/home/cp-2024) (PC)
