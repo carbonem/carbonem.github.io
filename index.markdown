@@ -89,8 +89,9 @@ SFM-09:WS School (Lecturer), ICE'08 (PC), BPESO School '07 (Lecturer).
 
 ## Postdocs/PhD Students/RA
 
+* [Maria Bendix Mikkelsen](https://pure.itu.dk/da/persons/maria-bendix-mikkelsen/) (2025-2028, PhD student)
 * [Emil Kistensen](https://www.linkedin.com/in/ekxdk/) (2023-2024, research assistant/predoc)
-* [Dawit Tirore](https://tirore96.github.io) (2021-2024, PhD student)
+* [Dawit Tirore](https://tirore96.github.io) (2021-2024, PhD student, now postdoc at ITU)
 * [Agata Murawska](https://ayertienna.github.io) (2017-18, postdoc, now software developer at Deon Digital)
 * [Fabrizio Montesi](https://www.fabriziomontesi.com) (2011-14, PhD student, now full professor at SDU)
 * [Tijs Slaats](https://di.ku.dk/Ansatte/?pure=da/persons/561613) (2009-12, PhD student, co-supervised, now associate professor at DIKU)
