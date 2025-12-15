@@ -68,6 +68,7 @@ European RISE Action (EU HORIZON 2020, MSCA RISE, ID 778233)
 
 ## Recent Community Service 
 
+- [PLACES'26](https://places-workshop.github.io/2026/) (PC)
 - [FORTE 2026](https://www.discotec.org/2026/forte) (PC)
 - [Radical'25](https://sites.google.com/site/radicalconcur) (PC)
 - [COORDINATION 2025](https://www.discotec.org/2025/coordination) (PC)
@@ -76,7 +77,7 @@ European RISE Action (EU HORIZON 2020, MSCA RISE, ID 778233)
 - [Radical'23](https://sites.google.com/site/radicalconcur/previous-editions/radical-2023/) (PC)
 - [FOSSACS'23](https://www.etaps.org/2023/conferences/) (PC)
 - [PLACES'22](https://places-workshop.github.io/2022/) (PC chair)
-- [FORTE'20](http://www.discotec.org/2020/forte.html) (PC)
+<!-- - [FORTE'20](http://www.discotec.org/2020/forte.html) (PC) --> 
 
 <!---PLACES'17 (PC), SAC'17-SOAP (PC), TASE'16 (PC), TGC'15 (PC), ICTAC'15
 (PC), BEAT2014 (PC chair), WSFM'14 (PC), ICE'14 (PC), ICE'13 (PC
