@@ -52,10 +52,10 @@ You can also find me on [Google Scholar](https://scholar.google.com/citations?us
 - [2025-2028] [_PROBABILIstic Session Types (PROBABILIST)_](), FNU
   Research Project 1, funded by the [Independent Research Fund Denmark](https://www.dff.dk).
 
+## Past Projects
+
 - [2021-2025] [_MECHANIsation of Session Types (MECHANIST)_](https://carbonem.github.io/mechanist/), FNU
   Research Project 1, funded by the [Independent Research Fund Denmark](https://www.dff.dk).
-
-## Past Projects
 
 - [2024] [_Safer AI with Probabilistic Session Types (SAPienT)_](https://www.carlsbergfondet.dk/det-har-vi-stoettet/cf23-1797/), Research Stays at the University of Oxford, funded by the [Carlsberg Foundation](https://www.carlsbergfondet.dk/en)
 
@@ -90,7 +90,7 @@ SFM-09:WS School (Lecturer), ICE'08 (PC), BPESO School '07 (Lecturer).
 ## Postdocs/PhD Students/RA
 
 * [Maria Bendix Mikkelsen](https://pure.itu.dk/da/persons/maria-bendix-mikkelsen/) (2025-2028, PhD student)
-* [Emil Kistensen](https://www.linkedin.com/in/ekxdk/) (2023-2024, research assistant/predoc)
+* [Emil Kristensen](https://www.linkedin.com/in/ekxdk/) (2023-2024, research assistant/predoc, now at [Banking Circle](https://www.bankingcircle.com))
 * [Dawit Tirore](https://tirore96.github.io) (2021-2024, PhD student, now postdoc at ITU)
 * [Agata Murawska](https://ayertienna.github.io) (2017-18, postdoc, now software developer at Deon Digital)
 * [Fabrizio Montesi](https://www.fabriziomontesi.com) (2011-14, PhD student, now full professor at SDU)
