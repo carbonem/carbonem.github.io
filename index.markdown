@@ -12,10 +12,9 @@ layout: default
 * I'm a Professor at the [Computer Science
 Department](https://wiki.itu.dk/computerscience/index.php/Main_Page),
 [IT University of Copenhagen](https://www.itu.dk) and member of the [Programming, Logics and
-  Semantics](https://pls.itu.dk) research group and the [Center of
-  Information Security and Trusts](https://cisat.dk).  <!--- Since 2018, -->  I am also heading (linjeleder) the [MSc. in Computer
-Science](https://en.itu.dk/Programmes/MSc-Programmes/Computer-Science).
-study programme at ITU. <!--- Formerly, 2014-18, I was heading the MSc. in Software Development. -->
+  Semantics](https://pls.itu.dk) research group and the [Center for
+  Information Security and Trust](https://cisat.dk).  <!--- Since 2018, -->  I am also heading (linjeleder) the [MSc in Computer
+Science](https://en.itu.dk/Programmes/MSc-Programmes/Computer-Science) study programme at ITU. <!--- Formerly, 2014-18, I was heading the MSc. in Software Development. -->
 
 * I received my PhD in Computer Science ([Trust and Mobility](https://www.itu.dk/people/maca/papers/phdThesis.pdf)) from
   [BRICS](https://brics.dk), Aarhus University.
@@ -28,7 +27,7 @@ study programme at ITU. <!--- Formerly, 2014-18, I was heading the MSc. in Softw
   [BRICS](https://brics.dk), Aarhus University supervised by
   Prof. M. Nielsen. -->
 
-* I am the recipient of the ACM SIGPLAN POPL 2018 Most Influential Paper Award, for the  [Multiparty Asynchronous Session Types](https://dl.acm.org/doi/10.1145/1328438.1328472) paper. 
+* I am the recipient of the ACM SIGPLAN POPL 2018 Most Influential Paper Award for the [Multiparty Asynchronous Session Types](https://dl.acm.org/doi/10.1145/1328438.1328472) paper.
 
 ## Research Interests
 
@@ -41,7 +40,7 @@ in the pi-calculus concurrency model, session types, and choreographies.
 The most (and very) up-to-date page is my
 [DBLP](https://dblp.org/pid/41/1366.html) entry. My ITU [publication
 page](https://pure.itu.dk/en/persons/marco-carbone) is updated once a
-year. For old stuff, look
+year. For older publications, see
 [here](https://www.itu.dk/people/maca/publications.html). My PhD thesis is [here](https://www.itu.dk/people/maca/papers/phdThesis.pdf). 
 
 You can also find me on [Google Scholar](https://scholar.google.com/citations?user=abe9klkAAAAJ&hl=en&oi=sra). 
