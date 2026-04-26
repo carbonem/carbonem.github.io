@@ -25,14 +25,9 @@
   box-shadow: 0 2px 10px rgba(0,0,0,0.18);
 }
 
-.bio-section::after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
 // ── Section headings ────────────────────────────────────────────────────────
 .page-content h2 {
+  clear: both;
   border-top: 2px solid #dde4ea;
   padding-top: 0.55em;
   margin-top: 2em;
