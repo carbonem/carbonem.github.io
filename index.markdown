@@ -5,7 +5,9 @@
 layout: default
 ---
 
-<img src="assets/img/marcopic.jpg" alt="Marco Carbone" width="200"/>
+<div class="bio-section">
+
+<img src="assets/img/marcopic.jpg" alt="Marco Carbone" class="profile-photo"/>
 
 ## Short Bio
 
@@ -28,6 +30,8 @@ Science](https://en.itu.dk/Programmes/MSc-Programmes/Computer-Science) study pro
   Prof. M. Nielsen. -->
 
 * I am the recipient of the ACM SIGPLAN POPL 2018 Most Influential Paper Award for the [Multiparty Asynchronous Session Types](https://dl.acm.org/doi/10.1145/1328438.1328472) paper.
+
+</div>
 
 ## Research Interests
 
