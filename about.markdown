@@ -4,5 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This page was created using Jekyll. In general, I'd thought this would be a gain and speed up for creating a nice looking modern page. It turns out that the documentation of Jekyll (especially on GitHub) is completely unstructured and hard to follow. 
+I am Marco Carbone, Professor at the [Computer Science
+Department](https://wiki.itu.dk/computerscience/index.php/Main_Page) of the
+[IT University of Copenhagen](https://www.itu.dk).
 
+My research is on the semantics of concurrent and distributed systems: the
+pi-calculus, session types, choreographies, and their connections to linear
+logic and proof theory.
+
+Contact: maca (at) itu.dk

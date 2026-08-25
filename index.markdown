@@ -13,7 +13,7 @@ layout: default
 Department](https://wiki.itu.dk/computerscience/index.php/Main_Page),
 [IT University of Copenhagen](https://www.itu.dk) and member of the [Programming, Logics and
   Semantics](https://pls.itu.dk) research group and the [Center for
-  Information Security and Trust](https://cisat.dk).  <!--- Since 2018, -->  I am also heading (linjeleder) the [MSc in Computer
+  Information Security and Trust](https://cisat.dk).  <!--- Since 2018, -->  I am also co-heading (linjeleder) the [MSc in Computer
 Science](https://en.itu.dk/Programmes/MSc-Programmes/Computer-Science) study programme at ITU. <!--- Formerly, 2014-18, I was heading the MSc. in Software Development. -->
 
 * I received my PhD in Computer Science ([Trust and Mobility](https://www.itu.dk/people/maca/papers/phdThesis.pdf)) from
@@ -48,7 +48,7 @@ You can also find me on [Google Scholar](https://scholar.google.com/citations?us
 
 ## Current Projects
 
-- [2025-2028] [_PROBABILIstic Session Types (PROBABILIST)_](), FNU
+- [2025-2028] _PROBABILIstic Session Types (PROBABILIST)_, FNU
   Research Project 1, funded by the [Independent Research Fund Denmark](https://www.dff.dk).
 
 ## Past Projects
@@ -67,7 +67,7 @@ European RISE Action (EU HORIZON 2020, MSCA RISE, ID 778233)
 
 ## Recent Community Service 
 
-- [RADICAL 2026](https://sites.google.com/site/radicalconcur) (PC)
+- [RADICAL 2026](https://sites.google.com/site/radicalconcur) (PC, cancelled)
 - [PLACES'26](https://places-workshop.github.io/2026/) (PC)
 - [FORTE 2026](https://www.discotec.org/2026/forte) (PC)
 - [RADICAL 2025](https://sites.google.com/site/radicalconcur) (PC)
